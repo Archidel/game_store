@@ -1,4 +1,0 @@
-com\archidel\dao\AbstractDao.class
-com\archidel\dao\configuration\HibernateConfiguration.class
-com\archidel\dao\impl\UserDaoImpl.class
-com\archidel\dao\UserDao.class
